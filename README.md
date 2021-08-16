@@ -1,10 +1,10 @@
 - Ich bin @vvmbvy
-- I’m currently learning polymer physics & Computational theories;
-- I love things like GUNDAMs; steam; movies;
-- I like litertures by Yasunari Kawabata; J.R.R. Tolkin; Issac Asimov;
-- I enjoy movies directed by Stanley Kubrick; Christopher Nolan; Hideaki Anno;
-- I appreciate the performances by Hikari Mitsushima; Keira Knightly; Yejin son;
-- I play games like CSGO; R6S; Zelda; Monster Hunter; Fire Emblem; Super Smash Bros;
+- learning polymer physics & Computational theories;
+- GUNDAMs; steam; movies;
+- Yasunari Kawabata; J.R.R. Tolkin; Issac Asimov;
+- Stanley Kubrick; Christopher Nolan; Hideaki Anno;
+- Hikari Mitsushima; Keira Knightly;
+- CSGO; R6S; Zelda; TTF2; Monster Hunter; Fire Emblem; Super Smash Bros;
 
 
 <!---
