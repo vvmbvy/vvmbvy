@@ -4,7 +4,7 @@
 - Yasunari Kawabata; J.R.R. Tolkin; Issac Asimov;
 - Stanley Kubrick; Christopher Nolan; Hideaki Anno;
 - Hikari Mitsushima; Keira Knightly;
-- CSGO; R6S; Zelda; TTF2; Monster Hunter; Fire Emblem; Super Smash Bros;
+- CSGO; R6S; Zelda; TTF2; Monster Hunter; Fire Emblem;
 
 
 <!---
